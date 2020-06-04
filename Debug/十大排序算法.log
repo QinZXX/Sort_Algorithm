@@ -1,26 +1,20 @@
-﻿  sort.cpp
-e:\study\十大排序算法\十大排序算法\sort.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(203): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(335): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(349): warning C4018: “<”: 有符号/无符号不匹配
-e:\study\十大排序算法\十大排序算法\sort.cpp(273): warning C4717: “qinkuai”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+﻿  main.cpp
+e:\study\十大排序算法\十大排序算法\main.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+  sort.cpp
+e:\study\十大排序算法\十大排序算法\sort.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(198): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+e:\study\十大排序算法\十大排序算法\sort.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
   十大排序算法.vcxproj -> E:\study\十大排序算法\Debug\十大排序算法.exe
